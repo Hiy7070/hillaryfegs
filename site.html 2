@@ -1,0 +1,37 @@
+<header>
+    <h1 class="titulo-principal">hillarys</h1>
+</header>
+
+<h2 class="titulo-centralizado">sobre a hillaryland um parque de diverssoẽs</h2>
+
+<P>Localizada no coração da cidade a hillaryland traz para o mercado o que há de melhor para o seu entreterimento e tempo de qualidade. </P>
+    <P> Fundada em 2023, a hillaryland já é destaque na cidade e conquista novos clientes a cada dia.</P>
+
+<P>Nossa missão é: "Proporcionar um dia melho a um alto custo para nossos clientes".</P>
+
+<P>Oferecemos profissionais experientes e antenados às mudanças no mundo da politica. </P>
+    <P> O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</P>
+
+    <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Produtos - Barbearia Alura</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="https://i.cbc.ca/1.7024888.1699626066!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_780/hillary-clinton.jpg"></h1>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Produtos - Barbearia Alura</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="kj"></h1>
+
